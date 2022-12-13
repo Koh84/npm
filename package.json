@@ -1,6 +1,6 @@
 {
   "name": "is-wds-test-kk",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "Is the string WDS?",
   "main": "index.js",
   "scripts": {
