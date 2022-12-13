@@ -1,0 +1,22 @@
+{
+  "name": "is-wds-test-kk",
+  "version": "1.0.0",
+  "description": "Is the string WDS?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Koh84/npm.git"
+  },
+  "keywords": [
+    "WDS"
+  ],
+  "author": "Kelvin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Koh84/npm/issues"
+  },
+  "homepage": "https://github.com/Koh84/npm#readme"
+}
